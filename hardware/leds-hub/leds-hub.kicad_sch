@@ -896,16 +896,6 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 76.2) (xy 66.04 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0dc688aa-7212-44c5-b03b-7ed33de2b357")
-	)
-	(wire
-		(pts
 			(xy 59.69 31.75) (xy 49.53 31.75)
 		)
 		(stroke
@@ -913,16 +903,6 @@
 			(type default)
 		)
 		(uuid "16763a28-0c9d-4f58-a3c0-7ae971c90771")
-	)
-	(wire
-		(pts
-			(xy 49.53 106.68) (xy 66.04 106.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "196e4d8f-62e6-46ae-93b5-9a39385985de")
 	)
 	(wire
 		(pts
@@ -956,16 +936,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 119.38) (xy 66.04 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "299a9848-7c3c-40b1-88ab-815d4c0612fb")
-	)
-	(wire
-		(pts
 			(xy 59.69 29.21) (xy 49.53 29.21)
 		)
 		(stroke
@@ -976,7 +946,7 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 95.25) (xy 54.61 101.6)
+			(xy 27.94 82.55) (xy 24.13 82.55)
 		)
 		(stroke
 			(width 0)
@@ -986,7 +956,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 95.25) (xy 41.91 114.3)
+			(xy 27.94 69.85) (xy 24.13 69.85)
 		)
 		(stroke
 			(width 0)
@@ -996,23 +966,13 @@
 	)
 	(wire
 		(pts
-			(xy 54.61 82.55) (xy 54.61 76.2)
+			(xy 40.64 82.55) (xy 43.18 82.55)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "42776266-a7ab-4c64-a795-aec4ea8d54b3")
-	)
-	(wire
-		(pts
-			(xy 46.99 109.22) (xy 66.04 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4638dfd7-7044-43db-8d86-274606ceb038")
 	)
 	(wire
 		(pts
@@ -1023,36 +983,6 @@
 			(type default)
 		)
 		(uuid "4b30c113-8fe6-4acf-8704-51ecb7777d85")
-	)
-	(wire
-		(pts
-			(xy 41.91 114.3) (xy 66.04 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4b58fc89-5b17-4b4d-b021-41c6e20d5498")
-	)
-	(wire
-		(pts
-			(xy 57.15 99.06) (xy 66.04 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4bfe2963-6b42-4885-a9ab-b908057ad32d")
-	)
-	(wire
-		(pts
-			(xy 52.07 104.14) (xy 66.04 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "532a24d9-90c0-472f-8cda-9c9e5660da62")
 	)
 	(wire
 		(pts
@@ -1086,7 +1016,7 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 82.55) (xy 49.53 71.12)
+			(xy 40.64 77.47) (xy 43.18 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1096,7 +1026,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 95.25) (xy 46.99 109.22)
+			(xy 27.94 74.93) (xy 24.13 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1106,7 +1036,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 82.55) (xy 52.07 73.66)
+			(xy 40.64 80.01) (xy 43.18 80.01)
 		)
 		(stroke
 			(width 0)
@@ -1126,7 +1056,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 95.25) (xy 57.15 99.06)
+			(xy 27.94 85.09) (xy 24.13 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1166,13 +1096,13 @@
 	)
 	(wire
 		(pts
-			(xy 49.53 71.12) (xy 66.04 71.12)
+			(xy 24.13 64.77) (xy 27.94 64.77)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7dece4e4-831f-4e3a-96e5-0336de16d92e")
+		(uuid "7bafe4bd-e569-4c8e-be85-99177b2e56ce")
 	)
 	(wire
 		(pts
@@ -1183,16 +1113,6 @@
 			(type default)
 		)
 		(uuid "7e2e8e6b-233d-4b00-ac5f-ee65194d609b")
-	)
-	(wire
-		(pts
-			(xy 39.37 60.96) (xy 66.04 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7ed1356d-21a9-4787-831c-c43d8a553d74")
 	)
 	(wire
 		(pts
@@ -1216,7 +1136,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 82.55) (xy 57.15 78.74)
+			(xy 40.64 85.09) (xy 43.18 85.09)
 		)
 		(stroke
 			(width 0)
@@ -1226,23 +1146,13 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 82.55) (xy 59.69 81.28)
+			(xy 40.64 87.63) (xy 43.18 87.63)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "814e8e45-8555-4554-8bcb-75f1eaf57598")
-	)
-	(wire
-		(pts
-			(xy 46.99 68.58) (xy 66.04 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "839130fc-e9e2-49c4-b461-ca40dbb07cd3")
 	)
 	(wire
 		(pts
@@ -1266,7 +1176,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 95.25) (xy 39.37 116.84)
+			(xy 27.94 67.31) (xy 24.13 67.31)
 		)
 		(stroke
 			(width 0)
@@ -1276,17 +1186,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 78.74) (xy 66.04 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d2115a1-d0af-477b-8a66-572f9830e06f")
-	)
-	(wire
-		(pts
-			(xy 59.69 95.25) (xy 59.69 96.52)
+			(xy 27.94 87.63) (xy 24.13 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1306,17 +1206,7 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 73.66) (xy 66.04 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ab197037-5b14-4f16-80aa-d27b539e8469")
-	)
-	(wire
-		(pts
-			(xy 49.53 95.25) (xy 49.53 106.68)
+			(xy 27.94 77.47) (xy 24.13 77.47)
 		)
 		(stroke
 			(width 0)
@@ -1336,26 +1226,6 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 58.42) (xy 66.04 58.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4359249-f065-4087-a4bd-f1afef4eb5da")
-	)
-	(wire
-		(pts
-			(xy 59.69 81.28) (xy 66.04 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b986605f-21df-4ab4-833c-6a920fa4fa98")
-	)
-	(wire
-		(pts
 			(xy 26.67 49.53) (xy 16.51 49.53)
 		)
 		(stroke
@@ -1363,36 +1233,6 @@
 			(type default)
 		)
 		(uuid "beaa1ef1-c7da-409d-9bd1-69a3e72cd429")
-	)
-	(wire
-		(pts
-			(xy 59.69 96.52) (xy 66.04 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2b67e4a-bf90-4352-97e8-6b16c62c6cd9")
-	)
-	(wire
-		(pts
-			(xy 44.45 111.76) (xy 66.04 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4bcce0e-8eba-443c-bf3e-58973f8db9cc")
-	)
-	(wire
-		(pts
-			(xy 44.45 66.04) (xy 66.04 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c76f34d3-7cf2-49f8-8a00-6c97c6dbf57d")
 	)
 	(wire
 		(pts
@@ -1406,23 +1246,13 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 82.55) (xy 39.37 60.96)
+			(xy 40.64 67.31) (xy 43.18 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "d1f7e533-18fc-4557-8e42-d96e05f9d40e")
-	)
-	(wire
-		(pts
-			(xy 36.83 95.25) (xy 36.83 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d7f5e557-4d70-4c07-b410-7b80a27c7462")
 	)
 	(wire
 		(pts
@@ -1436,7 +1266,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 82.55) (xy 44.45 66.04)
+			(xy 40.64 72.39) (xy 43.18 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1456,23 +1286,13 @@
 	)
 	(wire
 		(pts
-			(xy 52.07 95.25) (xy 52.07 104.14)
+			(xy 27.94 80.01) (xy 24.13 80.01)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e72ce5cd-add9-45b6-bc61-051a42483d20")
-	)
-	(wire
-		(pts
-			(xy 54.61 101.6) (xy 66.04 101.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e95141e1-cc85-4ef4-baf1-7dc016908a9f")
 	)
 	(wire
 		(pts
@@ -1486,7 +1306,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 82.55) (xy 36.83 58.42)
+			(xy 40.64 64.77) (xy 43.18 64.77)
 		)
 		(stroke
 			(width 0)
@@ -1496,7 +1316,7 @@
 	)
 	(wire
 		(pts
-			(xy 44.45 95.25) (xy 44.45 111.76)
+			(xy 27.94 72.39) (xy 24.13 72.39)
 		)
 		(stroke
 			(width 0)
@@ -1516,17 +1336,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 63.5) (xy 66.04 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f94deed0-8cd3-4fcf-b462-a736893185c3")
-	)
-	(wire
-		(pts
-			(xy 41.91 82.55) (xy 41.91 63.5)
+			(xy 40.64 69.85) (xy 43.18 69.85)
 		)
 		(stroke
 			(width 0)
@@ -1536,17 +1346,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 116.84) (xy 66.04 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe3a37ae-273d-4ef0-93f3-a05d5bc3348e")
-	)
-	(wire
-		(pts
-			(xy 46.99 82.55) (xy 46.99 68.58)
+			(xy 40.64 74.93) (xy 43.18 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1565,26 +1365,26 @@
 		(uuid "ff8f4b03-d55c-4722-9b22-8f1ef7a282c9")
 	)
 	(label "LED_15"
-		(at 66.04 101.6 0)
+		(at 24.13 82.55 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "024c15b7-9150-403a-9b89-8a5e75f6f6d6")
 	)
 	(label "LED_13"
-		(at 66.04 104.14 0)
+		(at 24.13 80.01 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "06e9efc2-8187-4fea-b2be-ee9e65f9967d")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 118.11 49.53 0)
 		(effects
 			(font
@@ -1595,7 +1395,7 @@
 		(uuid "0c5919eb-7c92-4534-9c2d-bcb42263329b")
 	)
 	(label "LED_08"
-		(at 66.04 66.04 0)
+		(at 43.18 72.39 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1604,8 +1404,8 @@
 		)
 		(uuid "152702c7-8238-435c-b704-e297036c0042")
 	)
-	(label "+15V_LED"
-		(at 66.04 81.28 0)
+	(label "V+_LED"
+		(at 43.18 87.63 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1615,17 +1415,17 @@
 		(uuid "1872631c-55c6-4f90-b639-50af2796673f")
 	)
 	(label "LED_09"
-		(at 66.04 109.22 0)
+		(at 24.13 74.93 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "1ed47518-e5de-4f46-99b4-378ec30c2ca2")
 	)
-	(label "+15V_LED"
-		(at 66.04 78.74 0)
+	(label "V+_LED"
+		(at 43.18 85.09 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1644,7 +1444,7 @@
 		)
 		(uuid "2e7330ab-16ab-4787-93db-0e9237ac95a9")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 83.82 29.21 0)
 		(effects
 			(font
@@ -1664,7 +1464,7 @@
 		)
 		(uuid "394d8f0e-ced6-4990-85c3-781fc137253a")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 118.11 39.37 0)
 		(effects
 			(font
@@ -1685,7 +1485,7 @@
 		(uuid "5444418d-83c5-4e49-a6c0-e747b3db58fc")
 	)
 	(label "LED_10"
-		(at 66.04 68.58 0)
+		(at 43.18 74.93 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1714,13 +1514,13 @@
 		)
 		(uuid "5ccd2100-203b-44ab-b3ba-f62e5b45d76c")
 	)
-	(label "+15V_LED"
-		(at 66.04 99.06 0)
+	(label "V+_LED"
+		(at 24.13 85.09 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "65c074f1-6bd6-4366-be26-39fd72045598")
 	)
@@ -1765,16 +1565,16 @@
 		(uuid "6c2ee787-f587-46c2-81be-cb7a6368e3df")
 	)
 	(label "LED_11"
-		(at 66.04 106.68 0)
+		(at 24.13 77.47 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "707c602b-4184-43bd-818e-69433e7097e0")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 83.82 19.05 0)
 		(effects
 			(font
@@ -1784,7 +1584,7 @@
 		)
 		(uuid "76d3e4de-9715-40be-b13e-027ee685845e")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 16.51 49.53 0)
 		(effects
 			(font
@@ -1794,17 +1594,17 @@
 		)
 		(uuid "7905cfca-870e-4a6e-bbb1-67d698d8ee89")
 	)
-	(label "+15V_LED"
-		(at 66.04 96.52 0)
+	(label "V+_LED"
+		(at 24.13 87.63 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7ea25bfd-3f2a-444a-9efe-cc32b9359ecc")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 118.11 29.21 0)
 		(effects
 			(font
@@ -1834,7 +1634,7 @@
 		)
 		(uuid "896ecdf2-7015-42f1-9c1a-68e6206928c8")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 16.51 29.21 0)
 		(effects
 			(font
@@ -1855,7 +1655,7 @@
 		(uuid "8b8ad0a7-e74d-4b6f-9b40-3ff70be77110")
 	)
 	(label "LED_06"
-		(at 66.04 63.5 0)
+		(at 43.18 69.85 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1865,7 +1665,7 @@
 		(uuid "99bdbcf5-3e44-40fe-8901-aeb36e6cf1c0")
 	)
 	(label "LED_16"
-		(at 66.04 76.2 0)
+		(at 43.18 82.55 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1875,7 +1675,7 @@
 		(uuid "9a93f729-3f0e-48f1-965e-c31d8f66afad")
 	)
 	(label "LED_04"
-		(at 66.04 60.96 0)
+		(at 43.18 67.31 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1884,7 +1684,7 @@
 		)
 		(uuid "9c0d6523-841c-4aa5-9849-478c6c235106")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 16.51 19.05 0)
 		(effects
 			(font
@@ -1894,7 +1694,7 @@
 		)
 		(uuid "a96c994b-9a0f-4e81-8321-50cc47e43f01")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 49.53 29.21 0)
 		(effects
 			(font
@@ -1904,7 +1704,7 @@
 		)
 		(uuid "a9cde5d7-49cb-43e1-9794-8f380bb77bbf")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 49.53 39.37 0)
 		(effects
 			(font
@@ -1934,7 +1734,7 @@
 		)
 		(uuid "b3434f26-2bb0-4181-8114-6f4c1da1067a")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 83.82 49.53 0)
 		(effects
 			(font
@@ -1954,7 +1754,7 @@
 		)
 		(uuid "ba29031a-b3e8-40ac-bb12-4d5042b7a24b")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 83.82 39.37 0)
 		(effects
 			(font
@@ -1964,7 +1764,7 @@
 		)
 		(uuid "bcc51ea2-1d28-44c9-b7e0-0a691d1dc7ed")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 118.11 19.05 0)
 		(effects
 			(font
@@ -1975,17 +1775,17 @@
 		(uuid "c064956c-0758-4ef6-9912-bb94ad4ed483")
 	)
 	(label "LED_01"
-		(at 66.04 119.38 0)
+		(at 24.13 64.77 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "c2d2cef0-9452-4575-8343-14a270dfdf44")
 	)
 	(label "LED_12"
-		(at 66.04 71.12 0)
+		(at 43.18 77.47 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1995,17 +1795,17 @@
 		(uuid "c6ee1f4d-4ca0-440b-bccf-169324d2c35c")
 	)
 	(label "LED_07"
-		(at 66.04 111.76 0)
+		(at 24.13 72.39 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "c89f3f28-d080-4bbb-acc3-9ed1586bab30")
 	)
 	(label "LED_14"
-		(at 66.04 73.66 0)
+		(at 43.18 80.01 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2014,7 +1814,7 @@
 		)
 		(uuid "c8f6d2b1-ab26-48bd-a1d0-6e43c2a6a072")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 16.51 39.37 0)
 		(effects
 			(font
@@ -2024,7 +1824,7 @@
 		)
 		(uuid "d18312bc-452e-4825-a97d-494e3bbca8c1")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 49.53 19.05 0)
 		(effects
 			(font
@@ -2035,16 +1835,16 @@
 		(uuid "d837ecde-d7aa-4edc-84f3-451b7d6ed935")
 	)
 	(label "LED_03"
-		(at 66.04 116.84 0)
+		(at 24.13 67.31 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "dfa5aaf5-d6b3-4c39-abaa-bf1ef9bb29f3")
 	)
-	(label "+15V_LED"
+	(label "V+_LED"
 		(at 49.53 49.53 0)
 		(effects
 			(font
@@ -2065,17 +1865,17 @@
 		(uuid "ef4b1bff-2f13-4be0-8caa-d5e8a20aef4c")
 	)
 	(label "LED_05"
-		(at 66.04 114.3 0)
+		(at 24.13 69.85 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "f94d6f68-a6ac-40ea-9a29-bd427d2547f8")
 	)
 	(label "LED_02"
-		(at 66.04 58.42 0)
+		(at 43.18 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2086,7 +1886,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x10_Odd_Even")
-		(at 46.99 90.17 90)
+		(at 33.02 74.93 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2094,10 +1894,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0dc5e4a3-9757-45c9-8c67-afc73727a90c")
 		(property "Reference" "J17"
-			(at 34.29 87.6299 90)
+			(at 33.02 61.976 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2108,7 +1907,7 @@
 			)
 		)
 		(property "Value" "Conn_02x10_Odd_Even"
-			(at 34.29 90.1699 90)
+			(at 33.02 59.436 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2119,7 +1918,7 @@
 			)
 		)
 		(property "Footprint" "Connector_IDC:IDC-Header_2x10_P2.54mm_Vertical"
-			(at 46.99 90.17 0)
+			(at 33.02 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2130,7 +1929,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 90.17 0)
+			(at 33.02 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2141,7 +1940,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x10, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 46.99 90.17 0)
+			(at 33.02 74.93 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2212,7 +2011,7 @@
 			(uuid "7943592e-ad7b-458b-9403-b4e4e722d987")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
 					(reference "J17")
 					(unit 1)
@@ -2232,7 +2031,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22341a32-8098-4936-b9e1-8a913d0e8d4b")
-		(property "Reference" "J3"
+		(property "Reference" "LED03"
 			(at 34.29 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2294,9 +2093,9 @@
 			(uuid "89acf9f9-cb36-41ab-b66c-33f5cfdccf09")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J3")
+					(reference "LED03")
 					(unit 1)
 				)
 			)
@@ -2314,7 +2113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "32b9c9e4-27b7-47a5-9459-3acce9b83f54")
-		(property "Reference" "J16"
+		(property "Reference" "LED16"
 			(at 135.89 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2376,9 +2175,9 @@
 			(uuid "3c1c3f1c-59c4-439c-b9a9-57b127676512")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J16")
+					(reference "LED16")
 					(unit 1)
 				)
 			)
@@ -2396,7 +2195,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bf656c9-82a7-4378-b777-636cd1f9ca74")
-		(property "Reference" "J4"
+		(property "Reference" "LED04"
 			(at 34.29 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2458,9 +2257,9 @@
 			(uuid "4a19120e-ffdd-436b-831b-6cb32e6178fd")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J4")
+					(reference "LED04")
 					(unit 1)
 				)
 			)
@@ -2478,7 +2277,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "448c0f5d-8957-44d1-8c08-991b763f8e4f")
-		(property "Reference" "J2"
+		(property "Reference" "LED02"
 			(at 34.29 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2540,9 +2339,9 @@
 			(uuid "97f720fb-52cf-4fd9-89c0-f1febba7785a")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J2")
+					(reference "LED02")
 					(unit 1)
 				)
 			)
@@ -2560,7 +2359,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62336d88-4e89-410f-a960-e2530d899f38")
-		(property "Reference" "J1"
+		(property "Reference" "LED01"
 			(at 34.29 19.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2622,9 +2421,9 @@
 			(uuid "04590a7a-7a96-4887-9fa0-75ee00999ace")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J1")
+					(reference "LED01")
 					(unit 1)
 				)
 			)
@@ -2642,7 +2441,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68ad9068-1554-47f3-b429-11154d1e2d37")
-		(property "Reference" "J9"
+		(property "Reference" "LED09"
 			(at 101.6 19.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2704,9 +2503,9 @@
 			(uuid "384cf1f2-4ad8-4f43-b2e8-23787e0da6a4")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J9")
+					(reference "LED09")
 					(unit 1)
 				)
 			)
@@ -2724,7 +2523,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "83f15f6a-016d-45da-b32e-46437a1c8025")
-		(property "Reference" "J15"
+		(property "Reference" "LED15"
 			(at 135.89 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2786,9 +2585,9 @@
 			(uuid "b6b782e5-85d5-40b0-8f52-407667013c80")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J15")
+					(reference "LED15")
 					(unit 1)
 				)
 			)
@@ -2806,7 +2605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "90140963-779a-4a16-a820-2e0a29d6ec28")
-		(property "Reference" "J12"
+		(property "Reference" "LED12"
 			(at 101.6 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2868,9 +2667,9 @@
 			(uuid "07459193-d45d-442f-96e5-e8207898c2a8")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J12")
+					(reference "LED12")
 					(unit 1)
 				)
 			)
@@ -2888,7 +2687,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92f95188-6de8-44a5-9a93-2c1596c2e23e")
-		(property "Reference" "J13"
+		(property "Reference" "LED13"
 			(at 135.89 19.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2950,9 +2749,9 @@
 			(uuid "9f2ffad2-5e67-4d9b-b2c7-d5e3a1080c6b")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J13")
+					(reference "LED13")
 					(unit 1)
 				)
 			)
@@ -2970,7 +2769,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b8f9f8c-7f93-4d43-bf95-0aff1df56d3d")
-		(property "Reference" "J14"
+		(property "Reference" "LED14"
 			(at 135.89 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3032,9 +2831,9 @@
 			(uuid "2b601545-07be-4570-9574-368be87faaf5")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J14")
+					(reference "LED14")
 					(unit 1)
 				)
 			)
@@ -3052,7 +2851,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9e9b8e34-af5b-47e5-b128-b03d9e780cb5")
-		(property "Reference" "J8"
+		(property "Reference" "LED08"
 			(at 67.31 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3114,9 +2913,9 @@
 			(uuid "37c34864-fabf-4e81-b323-a21a824a5457")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J8")
+					(reference "LED08")
 					(unit 1)
 				)
 			)
@@ -3134,7 +2933,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1be3717-d621-47fa-92eb-8e4d44c74ffb")
-		(property "Reference" "J10"
+		(property "Reference" "LED10"
 			(at 101.6 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3196,9 +2995,9 @@
 			(uuid "ac14a4b7-4cb7-4e47-b561-9af3c1382841")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J10")
+					(reference "LED10")
 					(unit 1)
 				)
 			)
@@ -3216,7 +3015,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b41038ae-d42a-40c4-9eed-c653b3ff7e30")
-		(property "Reference" "J7"
+		(property "Reference" "LED07"
 			(at 67.31 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3278,9 +3077,9 @@
 			(uuid "9d73e5c4-f142-4b14-93a2-2813f797663d")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J7")
+					(reference "LED07")
 					(unit 1)
 				)
 			)
@@ -3298,7 +3097,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d715bd85-238b-4fa5-bc21-81459678d479")
-		(property "Reference" "J11"
+		(property "Reference" "LED11"
 			(at 101.6 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3360,9 +3159,9 @@
 			(uuid "0a4f6d48-208c-41e2-aa47-454f2d2df723")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J11")
+					(reference "LED11")
 					(unit 1)
 				)
 			)
@@ -3380,7 +3179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efd89015-c415-456c-92d5-ea867d86fa9c")
-		(property "Reference" "J6"
+		(property "Reference" "LED06"
 			(at 67.31 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3442,9 +3241,9 @@
 			(uuid "da9f4402-be0e-43a5-9df4-a31290250e9c")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J6")
+					(reference "LED06")
 					(unit 1)
 				)
 			)
@@ -3462,7 +3261,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fcbf61d0-a5cb-4383-9bf8-7f647ad3cbce")
-		(property "Reference" "J5"
+		(property "Reference" "LED05"
 			(at 67.31 19.0499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3524,9 +3323,9 @@
 			(uuid "8a4718f7-ec19-4146-b0ef-af86a1c3bd79")
 		)
 		(instances
-			(project "alpenhof-leds"
+			(project "leds-hub"
 				(path "/f9bbc064-faf0-431a-8024-6c38cb04f49e"
-					(reference "J5")
+					(reference "LED05")
 					(unit 1)
 				)
 			)
