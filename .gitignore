@@ -1,0 +1,30 @@
+
+# KiCad - local preferences
+*.kicad_prl
+
+# KiCad - lock files
+*.lck
+*~
+_autosave-*
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# KiCad - automatic backups
+*-backups/
+*.bak
+
+# KiCad - generated outputs
+gerbers/
+fabrication/
+*.gbr
+*.gbrjob
+*.drl
+*.pos
+*.rpt
+
+# macOS
+.DS_Store
+__MACOSX/
+
+# KiCad local history
+.history/
