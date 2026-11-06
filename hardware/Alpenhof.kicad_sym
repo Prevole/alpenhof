@@ -1060,7 +1060,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Module:RaspberryPi_Pico_W_SMD_HandSolder"
+		(property "Footprint" "Module:RaspberryPi_Pico_Common_Unspecified"
 			(at 0 -46.99 0)
 			(show_name no)
 			(do_not_autoplace no)
